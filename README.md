@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djdiptayan1&langs_count=10)](https://github.com/djdiptayan1/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djdiptayan1&layout=compact)](https://github.com/djdiptayan1/github-readme-stats)
 ![](https://visitor-badge.laobi.icu/badge?page_id=djdiptayan1.djdiptayan1)
+[![Github](https://img.shields.io/github/followers/djdiptayan1?label=Follow&style=social)](https://github.com/djdiptayan1)
