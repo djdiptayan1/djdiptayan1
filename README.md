@@ -78,4 +78,4 @@
 
 <div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djdiptayan1&hide_border=true&layout=compact" align="right" /></div>
 
-[![djdiptayan1's GitHub | Languages Over Time](https://stats.quine.sh/djdiptayan1/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=djdiptayan1)
+[![djdiptayan1's GitHub | Stats](https://stats.quine.sh/djdiptayan1/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=djdiptayan1)
