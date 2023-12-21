@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://s5.gifyu.com/images/SjMMX.gif" align="center" style="width: 100%" />
+</div>  
+
 <h1 align="center">Hi 👋, I'm Diptayan</h1>
 <h3 align="center">A passionate FullStack developer</h3>
 
