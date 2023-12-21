@@ -8,8 +8,6 @@
 # 💫 About Me:
 - 🔭 I’m currently a CS grad at **SRM institute of Science and Technology**
 
-- 🌱 I’m currently learning **new languages**
-
 - 💬 Ask me about **related to technology**
 
 - ⚡ Fun fact **I use tabs over spaces**
