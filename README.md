@@ -3,7 +3,7 @@
 </div>  
 
 <h1 align="center">Hi 👋, I'm Diptayan</h1>
-<h3 align="center">A passionate FullStack developer</h3>
+<h3 align="center">Developer, Gamer ...</h3>
 
 # 💫 About Me:
 - 🔭 I’m currently a CS grad at **SRM institute of Science and Technology**
