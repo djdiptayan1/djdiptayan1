@@ -1,20 +1,17 @@
-<div align="center">
-<img src="https://s5.gifyu.com/images/Sjpqy.gif" align="center" style="width: 100%" />
-</div>  
+<hr>
 
-<h1 align="center">Hi 👋, I'm Diptayan</h1>
+<h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">Developer, Gamer ...</h3>
 
-# 💫 About Me:
-- 🔭 I’m currently a CS grad at **SRM institute of Science and Technology**
+<p align="center">
+<a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F73F&center=true&width=435&lines=Welcome+to+Diptayan's+GitHub+Profile" alt="Typing SVG" /></a></p>
 
-- 💬 Ask me about **related to technology**
-
-- ⚡ Fun fact **I use tabs over spaces**
-
+<p align="center">
+<img src="https://tenor.com/view/code-coding-programming-computer-science-programming-language-gif-16596559.gif">
+</p>
 
 ## 🌐 Connect With Me:
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/diptayan_jash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="diptayan_jash" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/diptayan-jash-63496b214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diptayan-jash-63496b214" height="30" width="40" /></a>
 <a href="https://instagram.com/dj_dipt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dj_dipt" height="30" width="40" /></a>
