@@ -26,5 +26,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=djdiptayan1&theme=blueberry&hide_border=false) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=djdiptayan1&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<!---
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+--->
