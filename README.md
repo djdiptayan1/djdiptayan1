@@ -14,9 +14,10 @@
 
 ## 🌐 Connect With Me:
 <p align="center">
-<a href="https://twitter.com/diptayan_jash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="diptayan_jash" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/diptayan-jash-63496b214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diptayan-jash-63496b214" height="30" width="40" /></a>
-<a href="https://instagram.com/dj_dipt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dj_dipt" height="30" width="40" /></a>
+  <a href="https://twitter.com/diptayan_jash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="diptayan_jash" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/diptayan-jash-63496b214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diptayan-jash-63496b214" height="30" width="40" /></a>
+  <a href="https://instagram.com/dj_dipt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dj_dipt" height="30" width="40" /></a>
+  <a href="mailto:djdiptayan1@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
@@ -24,7 +25,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=djdiptayan1&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=djdiptayan1&theme=blueberry&hide_border=false) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=djdiptayan1&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=djdiptayan1&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+[![](https://visitor-badge.laobi.icu/badge?page_id=cxyfreedom.cxyfreedom)](https://visitor-badge.laobi.icu/badge?page_id=cxyfreedom.cxyfreedom)
 
 <!---
 ### 😂 Random Dev Meme
